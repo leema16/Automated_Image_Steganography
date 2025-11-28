@@ -23,6 +23,7 @@ It is a comprehensive automated steganography suite designed for bulk data hidin
 * **Multithreading:** Heavy tasks (downloading images, scanning folders) run on background threads, preventing UI freezes.
 * **Network Resilience:** Includes robust error handling and SSL bypass to ensure reliable image downloading even on restrictive networks.
 
+
 ---
 
 ## 🛠️ Installation
