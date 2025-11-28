@@ -3,6 +3,14 @@
 It is a comprehensive automated steganography suite designed for bulk data hiding and extraction. It leverages the **Least Significant Bit (LSB)** algorithm to embed secret text messages or sensitive files covertly inside images. Built with a modern `CustomTkinter` GUI, it features multi-threading for responsive performance and an automation engine capable of generating its own cover images from the internet.
 
 ---
+## ✨ Contributors  
+[@Viston-Shon](https://github.com/Viston-Shon)  
+[@leema16](https://github.com/leema16)    
+[@lahari-i](https://github.com/lahari-i). 
+[@Ruthvi1234](https://github.com/Ruthvi1234)
+
+
+---
 
 ## 🚀 Key Features
 
